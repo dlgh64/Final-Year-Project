@@ -24,3 +24,33 @@ Sets of questions the material leaves unanswered, or that undermine the conclusi
 #Notes
 
 Any other notes, thoughts, arguments, or feelings about what you have read.
+_______________________________________________________________________________________________________________________________________________________________________
+
+1.
+
+#Journal Title
+Application-Based COVID-19 Micro-Mobility Solution for Safe and Smart Navigation in Pandemics
+
+#References
+Mishra, S., Singh, N. and Bhattacharya, D. (2021) Application-Based COVID-19 Micro-Mobility Solution for Safe and Smart Navigation in Pandemics, ISPRS International Journal of Geo-Information, MDPI AG, 10(8), p. 571, [online] Available at: http://dx.doi.org/10.3390/ijgi10080571.
+
+#Synopsis
+Short distance travel and commute being inevitable, safe route planning in pandemics for micro-mobility, i.e., cycling and walking, is extremely important for the safety of oneself and others. Hence, we propose an application-based solution using COVID-19 occurrence data and a multi-criteria route planning technique for cyclists and pedestrians. This study aims at objectively determining the routes based on various criteria on COVID-19 safety of a given route while keeping the user away from potential COVID-19 transmission spots. The vulnerable spots include places such as a hospital or medical zones, contained residential areas, and roads with a high connectivity and influx of people. The proposed algorithm returns a multi-criteria route modeled on COVID-19-modified parameters of micro-mobility and betweenness centrality considering COVID-19 avoidance as well as the shortest available safe route for user ease and shortened time of outside environment exposure. We verified our routing algorithm in a part of Delhi, India, by visualizing containment zones and medical establishments. The results with COVID-19 data analysis and route planning suggest a safer route in the context of the coronavirus outbreak as compared to normal navigation and on average route extension is within 8%–12%. Moreover, for further advancement and post-COVID-19 era, we discuss the need for adding open data policy and the spatial system architecture for data usage, as a part of a pandemic strategy. The study contributes new micro-mobility parameters adapted for COVID-19 and policy guidelines based on aggregated contact tracing data analysis maintaining privacy, security, and anonymity.
+Keywords: COVID-19 routing problem; susceptibility mapping; pandemic urban sustenance; geospatial analysis; information management system
+
+#Useful Quotes
+algorithms about find the safe roads
+
+#Personal Reflection
+good to connect with real life and this issue is still a servious situation in some country, so this thought is kind of necessary.
+by the way, it can be extended to many other situations, for instance, trafic jams, routes of an ambulance, and etc. 
+
+#Questions Raised
+
+#Notes
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+2.
+
+https://www.mdpi.com/2220-9964/10/9/616
